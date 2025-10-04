@@ -1,62 +1,68 @@
-<!-- Stylish Header -->
-<h1 align="center" style="color:#4CAF50; font-size:36px; font-weight:bold;">
-  👋 Hi there, I'm Vikas Bhosale
+<h1 align="center" style="color:#4CAF50; font-weight:bold;">
+  👋 Hi, I'm Vikas Bhosale
 </h1>
 
-<p align="center" style="font-size:18px; color:gray;">
-💻 Full Stack Developer | 🚀 Open Source Contributor | 🤖 AI Enthusiast
+<p align="center">
+  <b>💻 Full Stack Developer | 🤖 AI Enthusiast | 🌍 Open Source Contributor</b>
 </p>
 
 ---
 
-# 💻 Tech Stack:
+## 🌟 About Me  
+- 🔭 Currently working on **AI Chatbots & Real-time Applications**  
+- 🌱 Learning **Next.js, WebSockets, and Advanced System Design**  
+- 💡 Interested in **AI/ML, Cloud, and Open Source**  
+- ⚡ Fun fact: I love turning complex problems into simple solutions ✨  
+
+---
+
+## 🛠 Tech Stack  
+
 <div align="center">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B" />
+  <br/>
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js" />
+  <br/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
 </div>
 
 ---
 
-# 📊 GitHub Stats:
+## 📈 GitHub Stats  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasbbhosale&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vikasbbhosale&theme=dark&hide_border=false" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasbbhosale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vikasbbhosale&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasbbhosale&layout=compact&theme=radical" height="180px"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikasbbhosale&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+## 🚀 Featured Projects  
+- 🔹 [Kynex](https://github.com/vikasbbhosale/kynex) – AI-powered chatbot with real-time chat & authentication  
+- 🔹 [Gesture Control System](https://github.com/vikasbbhosale/gesture-control) – Control system functions with hand gestures (using Mediapipe + Python)  
+- 🔹 [Cinematic.vikas](https://github.com/vikasbbhosale/cinematic-vikas) – YouTube cinematic channel project  
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vikasbbhosale&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
+## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vikasbbhosale&icon=0&color=0" alt="Profile Views" />
+  <a href="https://github.com/vikasbbhosale">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-<p align="center" style="color:gray;">
-  🚀 Proudly crafted with ❤️ by <b>Vikas Bhosale</b>
-</p>
+⭐️ From [vikasbbhosale](https://github.com/vikasbbhosale)
