@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://vikasbhosale.vercel.app">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hire%20Me-blue?style=for-the-badge&logo=linkedin" />
