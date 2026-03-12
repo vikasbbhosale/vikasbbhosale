@@ -1,9 +1,4 @@
-<!-- Typing Animation Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Vikas+Bhosale;💻+Full+Stack+Developer;🤖+AI+%26+Chatbot+Enthusiast;🚀+Open+Source+Contributor" alt="Typing SVG" />
-</h1>
 
----
 
 ## 👨‍💻 About Me  
 
